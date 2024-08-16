@@ -1,4 +1,3 @@
-# Construction-Cost-Estimation
 # Construction Cost Estimation Using Machine Learning
 
 ## Project Overview
