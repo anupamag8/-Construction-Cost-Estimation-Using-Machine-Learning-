@@ -20,7 +20,7 @@ This project aims to estimate the cost of construction projects based on input p
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/construction-cost-estimation.git
+   git clone https://github.com/anupamag8/construction-cost-estimation.git
    ```
 
 2. **Navigate to the project directory:**
@@ -30,8 +30,6 @@ This project aims to estimate the cost of construction projects based on input p
    ```
 
 3. **Install the required dependencies:**
-
-   Make sure you have Python 3.x installed. Then install the required Python packages using pip:
 
    ```bash
    pip install -r requirements.txt
