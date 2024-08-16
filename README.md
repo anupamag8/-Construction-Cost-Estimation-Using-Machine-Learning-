@@ -37,13 +37,13 @@ This project aims to estimate the cost of construction projects based on input p
 
 4. **Prepare your dataset:**
 
-   Ensure your dataset is in a CSV file format with columns `Materials`, `Labor`, `ProjectSize`, and `Cost`.
+   The dataset is in a CSV file format with columns `Materials`, `Labor`, `ProjectSize`, and `Cost`.
 
 ## Usage
 
-1. **Place your dataset in the project directory:**
+1. **Place dataset in the project directory:**
 
-   Ensure your dataset is named `construction_data.csv` and located in the root directory of the project. Modify the file path in the script if your dataset is named differently.
+   Ensure dataset is named `construction_data.csv` and located in the root directory of the project.
 
 2. **Run the code:**
 
@@ -55,7 +55,7 @@ This project aims to estimate the cost of construction projects based on input p
 
 3. **Switching Models:**
 
-   You can choose between Linear Regression, Gradient Boosting, or Neural Networks by uncommenting the desired model in the code.
+   Choose between Linear Regression, Gradient Boosting, or Neural Networks by uncommenting the desired model in the code.
 
 ## Models
 
