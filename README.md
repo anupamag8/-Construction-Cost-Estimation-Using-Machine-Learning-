@@ -77,6 +77,7 @@ After running the script, the model will output the following:
 - Root Mean Squared Error (RMSE) value
 - Mean Absolute Error (MAE) value
 - A scatter plot comparing the actual and predicted construction costs.
+![image](https://github.com/user-attachments/assets/fb3bd71e-f029-4123-b88c-840c15ea4682)
 
 ## Contributing
 
